@@ -10,3 +10,14 @@ My Python scripts and Cyber Security learning notes. 我的Python脚本与网络
 - 🚀 Preparing for CTF Team "Crimson"/"White Hat Alliance"/“白猫帽盟”
 
 - 注意！.xmind后缀的文件是思维导图，请下载Xmind后打开
+
+## 靶场进度
+
+| 靶场 | 模块 | 进度 | 笔记 |
+|---|---|---|---|
+| pikachu | SQL 注入 | 5 / 10 | [sqli.md](pikachu/sqli.md) |
+| pikachu | XSS | 0 / 4 | — |
+| pikachu | 其余模块 | 0 | — |
+
+> 数字型 · 字符型 · 搜索型 · xx型 · HTTP 头已通关，宽字节与盲注进行中。
+> 记录方式：打一关记一关，记“为什么”，不只记 payload。
